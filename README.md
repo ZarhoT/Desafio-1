@@ -1,5 +1,7 @@
 # README Sudoku
 
+Link al video: https://drive.google.com/file/d/1uAapjOp_qkQ-zVtqj3hRodFD9znKml08/view?usp=drivesdk
+
 ## Instrucciones. 
 
 1. Tener instalado compilador para correr c++. (https://code.visualstudio.com/docs/cpp/config-mingw)
