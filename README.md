@@ -1,4 +1,9 @@
 # README Sudoku
+~~~
+CAMILO ACEVEDO ÁLVAREZ
+RODRIGO MORALES PEÑA
+BASTIÁN ROLDÁN PULGAR
+~~~
 
 Link al video: https://drive.google.com/file/d/1uAapjOp_qkQ-zVtqj3hRodFD9znKml08/view?usp=drivesdk
 
